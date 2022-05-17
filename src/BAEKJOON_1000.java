@@ -4,9 +4,10 @@ public class BAEKJOON_1000 {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);   // 객체명 선언
         int a = sc.nextInt();   // 정수입력
-        int b = sc.nextInt();   // 정수입력
+        int b = sc.nextInt();
+        sc.close();// 정수입력
         System.out.println(a+b);    // 출력
-        sc.close();
+
     }
 }
 
