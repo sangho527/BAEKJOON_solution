@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0533b98-886f-4853-8f55-f90572476a1f" name="변경" comment="백준 문제풀이" />
+    <list default="true" id="e0533b98-886f-4853-8f55-f90572476a1f" name="변경" comment="A+B 사칙연산" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +72,23 @@
       <option name="presentableId" value="Default" />
       <updated>1652781259711</updated>
       <workItem from="1652781260975" duration="434000" />
+      <workItem from="1652782708350" duration="317000" />
     </task>
+    <task id="LOCAL-00001" summary="백준 문제풀이">
+      <created>1652782781253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652782781253</updated>
+    </task>
+    <task id="LOCAL-00002" summary="A+B 사칙연산">
+      <created>1652782937369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652782937369</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,10 +99,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="백준 문제풀이" />
+    <MESSAGE value="A+B 사칙연산" />
+    <option name="LAST_COMMIT_MESSAGE" value="A+B 사칙연산" />
   </component>
 </project>
