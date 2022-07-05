@@ -15,4 +15,6 @@
 [R2 숫자 추리 완료](https://github.com/sangho527/BAEKJOON_solution/blob/master/PYTHON/BAEKJOON_3046.py)
 
 [초콜릿 나누기 완료](https://github.com/sangho527/BAEKJOON_solution/blob/master/PYTHON/BAEKJOON_2163.py)
--> 벨로그에 풀이 올릴예정
+-> 벨로그에 풀이 업로드 완료
+
+[인공지능 시계 완료](https://github.com/sangho527/BAEKJOON_solution/blob/master/PYTHON/BAEKJOON_2530.py)
