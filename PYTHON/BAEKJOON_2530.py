@@ -7,7 +7,7 @@ hour1 = (hour + (minute+((sec+add)//60))//60)%24
 minute1 = (minute+((sec+add)//60))%60
 sec1 = (sec+add)%60
 
-print(hour1, minute1, sec1)
+print(hour1, minute1, sec1) 
 
 
 # ((sec+add)%60) = 몫은 101 나머지는 0
