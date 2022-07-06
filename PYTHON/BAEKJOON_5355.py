@@ -9,7 +9,7 @@ for i in range(T):
     res = float(case[0])
     
     for y in range(len(case)):
-        if case[y] == '@':
+        if case[y] == '@': 
             res *= 3
         elif case[y] == '%':
             res += 5
