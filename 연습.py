@@ -1,10 +1,11 @@
-hour, minute = map(int, input().split())
-add = int(input())
+list = [1, 5, 4, 3, 2]
 
-hour1 = (hour+(minute+add)//60)%24
-minute1 = (minute+add)%60
+#list.append(3)
+#list.sort()
+#list.reverse()
+#list.index(3)
+list.remove(3)
+#list.count()
 
-print(hour1, minute1)
 
-
-#(hour + ((minute + add)//60)) % 24
+print(list)
