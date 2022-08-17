@@ -1,6 +1,6 @@
 num_list = list(map(int, input().split()))
-num_list.sort()
-print(num_list[1])
+num_list.sort() #정렬
+print(num_list[1]) #[0]이 첫번째기 때문에 리스트에서 2번째 숫자인 [1]을 출력한다.
 
 """a, b, c = map(int, input().split(' '))
 
